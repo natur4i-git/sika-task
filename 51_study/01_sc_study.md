@@ -1,7 +1,9 @@
 # SC勉強用
 ### COOKIE
-
-
+- Secure：HTTPS通信下でのみCookieを送信する。通信経路での盗聴を防ぎやすくする。
+- HttpOnly：JavaScriptなどからCookieにアクセスできなくする。XSSによるCookie窃取対策。
+- SameSite：CSRF対策。クロスサイトのリクエストでCookieを送信するかどうかを制御する。Strict、Lax、Noneがある。
+- Domain：指定したドメインとそのサブドメインへのリクエストにCookieを送信する。
 ### HTTP
 ##### リクエスト
 ##### レスポンス
