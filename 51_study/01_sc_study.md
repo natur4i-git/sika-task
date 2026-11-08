@@ -55,7 +55,7 @@ Content-Security-Policy:
 
 ## その他
 
-## セキュリティ用語
+### セキュリティ用語
 
 ### Q1. DAIとは？
 
