@@ -1,6 +1,6 @@
 # SC勉強用
-## HTTPとCOOKIE
-### COOKIE
+## Linux
+### 基本コマンド
 - Secure：HTTPS通信下でのみCookieを送信する。通信経路での盗聴を防ぎやすくする。
 
 
