@@ -1,1 +1,4 @@
-
+# SC勉強用
+## HTTPとCOOKIE
+### COOKIE
+- Secure：HTTPS通信下でのみCookieを送信する。通信経路での盗聴を防ぎやすくする。
